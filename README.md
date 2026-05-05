@@ -1,1 +1,1 @@
-![gtg]./assets/gtg.webp
+![gtg](./assets/gtg.webp)
